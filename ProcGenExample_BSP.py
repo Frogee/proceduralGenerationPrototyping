@@ -4,7 +4,7 @@ Created on Fri Oct 23 13:46:42 2015
 
 @author: Ryan McCormick
 
-PROVIDED AS IS WITHOUT WARANTEE OR GUARANTEE THAT IT WILL WORK.
+PROVIDED AS IS WITHOUT WARRANTY OR GUARANTEE THAT IT WILL WORK.
 """
 
 from collections import defaultdict
